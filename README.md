@@ -1,6 +1,7 @@
 # ESPE2410-OOPSW1973-SinHorasExtras
 
 Workshop:
+
 Problem
 
 The administrator of a homeowner's association needs a system to efficiently manage all the administration tasks of the association. This program must include functionalities to cover all administration needs, from the control of the residents' fee payments to the maintenance of the facilities and the communication between the administrator and the owners or tenants.
