@@ -1,50 +1,58 @@
-ESPE2410-OOPSW1973
+## **ESPE2410-OOPSW1973**
 
 Repository for the class of Object-Oriented Programming at ESPE in 2024-10-28
 
-Homework
+*Homework
 
-Workshops
+*Workshops
 
-Exams
+*Exams
 
-Projects
+*Projects
 
-Other documets
+*Other documets
 
 Author Edison Lascano Instructor: Edison Lascano
 
-Project Title
+#Project Title
 
 Management 
 
-Description
+#Description
 
 Repository for uploading students' code for Back-end and Front-end projects, assignments and workshops
 
-Getting Started
+#Getting Started
 
-Dependencies
+#Dependencies
 
 JDK 23, Netbeans 23, MongoDb Atlas
 
-Installing
+#Installing
 
-JDK
+*JDK
 
-Visual Studio code
+*Visual Studio code
 
-Netbeans
+*Netbeans
 
-Executing program
+#Executing program
 
 
-Authors
+#Authors
+
+*Jami Klever
+
+*Leiton Jose
+
+*Manosalvas Gabriel
+
+*Maza Jardel
 
 0.1
 
-License
+#License
 
 Free
 
-Acknowledgments
+#Acknowledgments
